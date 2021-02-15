@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nevisande
+- 👀 I’m interested in data analysis with Python and SQL
+- 🌱 I’m currently learning statistics, linear algebra, Python Data Science Stack and DAX.
